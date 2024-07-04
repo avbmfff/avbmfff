@@ -5,14 +5,18 @@
 ## Education
 - Bachelor's Degree: ITMO University, Information System And Technologies, 2025
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 ## Additional Education and Courses
 - Itentika: QA Short Course, June-Jule 2023
 - Yandex SHAD: Python for developers, September-December 2023
 
 ## Work Experience
-### [CBR (Bank of Russia) / UI Testing]
+### CBR (Bank of Russia) / UI Testing
 - **Achievement 1**: Writing automated tests in Java using Selenide and JUnit 5
 - **Achievement 2**: Writing database queries for PostgreSQL using Hibernate
 - **Achievement 3**: Refactoring test cases
@@ -20,7 +24,7 @@
 - **Achievement 5**: Developing a file comparison service using JavaScript, HTML, and CSS
 - **Achievement 6**: Testing APIs using Postman
 
-### [Sirius Kuzbass / Teacher of Python]
+### Sirius Kuzbass / Teacher of Python
 - **Achievement 1**: Writing of a Python learning program
 - **Achievement 2**: Writing of machine learning tasks
 - **Achievement 3**: Reviewing works and code reviews
