@@ -14,6 +14,7 @@
 ## 📚 Additional Education and Courses
 - **Itentika**: QA Short Course, June-July 2023
 - **Yandex SHAD**: Python for Developers, September-December 2023
+- **SheCodes**: Developing an app for taxi, November 2023
 
 ## 💼 Work Experience
 ### 🏦 CBR (Bank of Russia) / UI Testing
