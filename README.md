@@ -59,7 +59,7 @@ I am a passionate developer with a keen interest in software quality assurance (
 
 
 ## Connect with Me
-- TG: [profile]([https://www.linkedin.com/in/profile](https://t.me/borzdunanna)
+- TG: [profile]([(https://t.me/borzdunanna])
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
 
