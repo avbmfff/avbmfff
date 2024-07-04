@@ -5,6 +5,8 @@
 ## Education
 - Bachelor's Degree: ITMO University, Information System And Technologies, 2025
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Additional Education and Courses
 - Itentika: QA Short Course, June-Jule 2023
 - Yandex SHAD: Python for developers, September-December 2023
@@ -46,8 +48,6 @@ I am a passionate developer with a keen interest in software quality assurance (
 - TG: [profile]([https://www.linkedin.com/in/profile](https://t.me/borzdunanna))
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **avbmfff/avbmfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
