@@ -68,6 +68,12 @@ I am a passionate developer with a keen interest in software quality assurance (
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **avbmfff/avbmfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
