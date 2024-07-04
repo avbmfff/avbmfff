@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Anna Borzdun, Junior AQA Java Developer
+# 👋 Hi there, 
+## I'm Anna Borzdun, Junior AQA Java Developer
 
 ## 🎓 Education
 - **Bachelor's Degree**: ITMO University, Information Systems and Technologies, 2025
@@ -31,7 +32,7 @@
 ## 👩‍💻 About Me 
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. My stack includes JUnit 5, Selenide/Selenium, RestAssured, TestNG, Hibernate, and Spring Boot. In my free time, I explore new languages, technologies, and methodologies. My primary focus is on creating efficient and innovative solutions. Additionally, I enjoy delving into machine learning.
 
-![Snake Animation](https://github.com/avbmfff/avbmfff/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## My skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
