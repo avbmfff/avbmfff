@@ -63,7 +63,8 @@ I am a passionate developer with a keen interest in software quality assurance (
 
 
 ## Connect with Me
-- TG: [profile]([(https://t.me/borzdunanna])
+- TG: [Anna Borzdun](https://t.me/borzdunanna)
+- Mail: annavb@live.ru
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
 
