@@ -1,34 +1,37 @@
-## Hi there 👋 I'm Anna Borzdun, Junior AQA Java
+# 👋 Hi there, I'm Anna Borzdun, Junior AQA Java Developer
 
-## Education
-- Bachelor's Degree: ITMO University, Information System And Technologies, 2025
+## 🎓 Education
+- **Bachelor's Degree**: ITMO University, Information Systems and Technologies, 2025
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avbmfff&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avbmfff&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avbmfff&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avbmfff&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avbmfff&theme=solarized_dark)
+## 📊 GitHub Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avbmfff&theme=solarized_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avbmfff&theme=solarized_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avbmfff&theme=solarized_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avbmfff&theme=solarized_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avbmfff&theme=solarized_dark)
 
-## Additional Education and Courses
-- Itentika: QA Short Course, June-Jule 2023
-- Yandex SHAD: Python for developers, September-December 2023
+## 📚 Additional Education and Courses
+- **Itentika**: QA Short Course, June-July 2023
+- **Yandex SHAD**: Python for Developers, September-December 2023
 
-## Work Experience
-### CBR (Bank of Russia) / UI Testing
-- **Achievement 1**: Writing automated tests in Java using Selenide and JUnit 5
-- **Achievement 2**: Writing database queries for PostgreSQL using Hibernate
-- **Achievement 3**: Refactoring test cases
-- **Achievement 4**: Debugging existing test cases
-- **Achievement 5**: Developing a file comparison service using JavaScript, HTML, and CSS
-- **Achievement 6**: Testing APIs using Postman
+## 💼 Work Experience
+### 🏦 CBR (Bank of Russia) / UI Testing
+- 🌟 Writing automated tests in Java using Selenide and JUnit 5
+- 🌟 Writing database queries for PostgreSQL using Hibernate
+- 🌟 Refactoring test cases
+- 🌟 Debugging existing test cases
+- 🌟 Developing a file comparison service using JavaScript, HTML, and CSS
+- 🌟 Testing APIs using Postman
 
-### Sirius Kuzbass / Teacher of Python
-- **Achievement 1**: Writing of a Python learning program
-- **Achievement 2**: Writing of machine learning tasks
-- **Achievement 3**: Reviewing works and code reviews
+### 🎓 Sirius Kuzbass / Teacher of Python
+- 🌟 Writing a Python learning program
+- 🌟 Creating machine learning tasks
+- 🌟 Reviewing works and conducting code reviews
 
-## About Me
+## 👩‍💻 About Me 
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. My stack includes JUnit 5, Selenide/Selenium, RestAssured, TestNG, Hibernate, and Spring Boot. In my free time, I explore new languages, technologies, and methodologies. My primary focus is on creating efficient and innovative solutions. Additionally, I enjoy delving into machine learning.
+
+![Snake Animation](https://github.com/avbmfff/avbmfff/blob/output/github-contribution-grid-snake.svg)
 
 ## My skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
