@@ -28,24 +28,30 @@
 ## About Me
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. My stack includes JUnit 5, Selenide/Selenium, RestAssured, TestNG, Hibernate, and Spring Boot. In my free time, I explore new languages, technologies, and methodologies. My primary focus is on creating efficient and innovative solutions. Additionally, I enjoy delving into machine learning.
 
-## Key Skills
+## My skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Fundamental Skills
-- Operating Systems: Linux (Advanced user)
-- Networks: TCP/IP, HTTP
-- Algorithms and Data Structures
-- Mathematical Foundations
-- Databases: SQL
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-### Applied Skills
-- Automated Testing: [Tool/Framework] (Experience: [duration of usage])
-- Programming Languages: [Language] (Advanced), [Language] (Intermediate)
-- Frameworks: [Framework]
-- Key Libraries: [Library] (Experience: [duration of usage])
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## Connect with Me
-- GitHub: [username](https://github.com/avbmfff)
-- TG: [profile]([https://www.linkedin.com/in/profile](https://t.me/borzdunanna))
+- TG: [profile]([https://www.linkedin.com/in/profile](https://t.me/borzdunanna)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
 
