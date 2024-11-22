@@ -1,5 +1,5 @@
 # 👋 Hi there, 
-## I'm Anna Borzdun, Junior AQA Java Developer
+## I'm Anna Borzdun, Junior SDET Java
 
 ## 🎓 Education
 - **Bachelor's Degree**: ITMO University, Information Systems and Technologies, 2025
