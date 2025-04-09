@@ -84,6 +84,6 @@ My path to automated testing was driven by a wide range of interesting tasks rel
 
 ## Connect with Me
 - TG: [Anna Borzdun](https://t.me/borzdunanna)
-- Mail: annavb@live.ru
+- Mail: borzdunanna@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
