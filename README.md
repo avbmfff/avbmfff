@@ -1,5 +1,5 @@
 # 👋 Hi there, 
-## I'm Anna Borzdun, Junior SDET Java
+## I'm Anna Borzdun, Junior+ SDET
 
 ## 🎓 Education
 - **Bachelor's Degree**: ITMO University, Information Systems and Technologies, 2025
@@ -20,7 +20,7 @@
 
 ### 🎓 Universe Data / Junior QA Auto | JULE 2024 - PRESENT
 - 🌟 Writing autotests on TestNG + Playwright
-- 🌟 Fixing bugs on existing TCS, tracking down dropped tests on Jenkins in the Allure report
+- 🌟 Fixing bugs on existing test cases, tracking down dropped tests on Jenkins in the Allure report
 - 🌟 Reviewing works and conducting code reviews
 - 🌟 Simplify manual test scenarios for automation
 - 🌟 Revision of autotests, taking into account updates in the product
