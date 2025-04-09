@@ -45,7 +45,6 @@
 - 🌟 Explaining Algorithms and Data Structures & Discrete Mathematics
 - 🌟 Checking homework
 
-- 
 ## 👩‍💻 About Me 
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
 
