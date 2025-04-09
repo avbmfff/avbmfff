@@ -17,7 +17,17 @@
 - **SheCodes**: Developing an app for taxi, November 2023
 
 ## 💼 Work Experience
-### 🏦 CBR (Bank of Russia) / UI Testing
+
+### 🎓 Universe Data / Junior QA Auto | JULE 2024 - PRESENT
+- 🌟 Writing autotests on TestNG + Playwright
+- 🌟 Fixing bugs on existing TCS, tracking down dropped tests on Jenkins in the Allure report
+- 🌟 Reviewing works and conducting code reviews
+- 🌟 Simplify manual test scenarios for automation
+- 🌟 Revision of autotests, taking into account updates in the product
+- 🌟 Conducting regression testing
+- 🌟 Support for autotests written in TypeScript + Cypress
+
+### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULE 2024
 - 🌟 Writing automated tests in Java using Selenide and JUnit 5
 - 🌟 Writing database queries for PostgreSQL using Hibernate
 - 🌟 Refactoring test cases
@@ -25,13 +35,21 @@
 - 🌟 Developing a file comparison service using JavaScript, HTML, and CSS
 - 🌟 Testing APIs using Postman
 
-### 🎓 Sirius Kuzbass / Teacher of Python
+### 🎓 Sirius Kuzbass / Teacher of Python | AUGUST 2023
 - 🌟 Writing a Python learning program
 - 🌟 Creating machine learning tasks
 - 🌟 Reviewing works and conducting code reviews
 
+### 🎓 ITMO University / Teaching assistant | SEMPTEMBER 2022 - JUNE 2023
+- 🌟 Reviweing student's code
+- 🌟 Explaining Algorithms and Data Structures & Discrete Mathematics
+- 🌟 Checking homework
+
+- 
 ## 👩‍💻 About Me 
-I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. My stack includes JUnit 5, Selenide/Selenium, RestAssured, TestNG, Hibernate, and Spring Boot. In my free time, I explore new languages, technologies, and methodologies. My primary focus is on creating efficient and innovative solutions. Additionally, I enjoy delving into machine learning.
+I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
+
+My path to automated testing was driven by a wide range of interesting tasks related to optimizing manual testing, as well as technological areas such as Java/Kotlin, Python, TypeScript, TestNG, Playwright, and Selenide. In addition, I am attracted to the field of DevOps, and now I am actively studying Docker, CI/CD, Jenkins and Kubernetes technologies.
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
