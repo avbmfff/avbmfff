@@ -49,7 +49,7 @@
 ## 👩‍💻 About Me 
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
 
-My path to automated testing was driven by a wide range of interesting tasks related to optimizing manual testing, as well as technological areas such as Java/Kotlin, Python, TypeScript, TestNG, Playwright, and Selenide. In addition, I am attracted to the field of DevOps, and now I am actively studying Docker, CI/CD, Jenkins and Kubernetes technologies.
+My path to automated testing was driven by a wide range of interesting tasks related to optimizing manual testing, as well as technological areas such as Java/Kotlin, Python, TypeScript, TestNG, Playwright, and Selenide. I am currently developing my knowledge of C# and C++. In addition, I am attracted to the field of DevOps, and now I am actively studying Docker, CI/CD, Jenkins and Kubernetes technologies.
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
