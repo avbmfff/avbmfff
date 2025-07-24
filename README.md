@@ -27,12 +27,12 @@
 - 🌟 Conducting regression testing
 
 ### 🎓 Sirius Kuzbass / Machine Learning Instructor | July 2025 – Present
-- 🧠 Designed an introductory machine learning curriculum for beginner students  
-- 📚 Developed practical notebooks covering core topics: linear regression, gradient descent, KNN, data preprocessing, and neural networks  
-- 🧪 Created interactive projects: lemonade flavor prediction, digit recognition using neural networks  
-- 🛠 Implemented custom exercises and visualizations to explain how algorithms work  
-- 🔍 Conducted code reviews, evaluated student submissions, and provided personalized feedback  
-- 💡 Explained key ML concepts such as overfitting, cross-validation, supervised vs. unsupervised learning
+- 🌟 Designed an introductory machine learning curriculum for beginner students  
+- 🌟 Developed practical notebooks covering core topics: linear regression, gradient descent, KNN, data preprocessing, and neural networks  
+- 🌟 Created interactive projects: lemonade flavor prediction, digit recognition using neural networks  
+- 🌟 Implemented custom exercises and visualizations to explain how algorithms work  
+- 🌟 Conducted code reviews, evaluated student submissions, and provided personalized feedback  
+- 🌟 Explained key ML concepts such as overfitting, cross-validation, supervised vs. unsupervised learning
 
 ### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULE 2024
 - 🌟 Writing automated tests in Java using Selenide and JUnit 5
