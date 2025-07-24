@@ -19,13 +19,20 @@
 ## 💼 Work Experience
 
 ### 🎓 Universe Data / Junior QA Auto | JULE 2024 - PRESENT
-- 🌟 Writing autotests on TestNG + Playwright
+- 🌟 Writing autotests on Java, TestNG + Playwright
 - 🌟 Fixing bugs on existing test cases, tracking down dropped tests on Jenkins in the Allure report
 - 🌟 Reviewing works and conducting code reviews
 - 🌟 Simplify manual test scenarios for automation
 - 🌟 Revision of autotests, taking into account updates in the product
 - 🌟 Conducting regression testing
-- 🌟 Support for autotests written in TypeScript + Cypress
+
+### 🎓 Sirius Kuzbass / Machine Learning Instructor | July 2025 – Present
+- 🧠 Designed an introductory machine learning curriculum for beginner students  
+- 📚 Developed practical notebooks covering core topics: linear regression, gradient descent, KNN, data preprocessing, and neural networks  
+- 🧪 Created interactive projects: lemonade flavor prediction, digit recognition using neural networks  
+- 🛠 Implemented custom exercises and visualizations to explain how algorithms work  
+- 🔍 Conducted code reviews, evaluated student submissions, and provided personalized feedback  
+- 💡 Explained key ML concepts such as overfitting, cross-validation, supervised vs. unsupervised learning
 
 ### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULE 2024
 - 🌟 Writing automated tests in Java using Selenide and JUnit 5
@@ -35,7 +42,7 @@
 - 🌟 Developing a file comparison service using JavaScript, HTML, and CSS
 - 🌟 Testing APIs using Postman
 
-### 🎓 Sirius Kuzbass / Teacher of Python | AUGUST 2023
+### 🎓 Sirius Kuzbass / Python Instructor | AUGUST 2023
 - 🌟 Writing a Python learning program
 - 🌟 Creating machine learning tasks
 - 🌟 Reviewing works and conducting code reviews
