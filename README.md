@@ -114,5 +114,3 @@ I enjoy solving complex technical problems, improving system architecture, and b
 - TG: [Anna Borzdun](https://t.me/borzdunanna)
 - Mail: borzdunanna@gmail.com
 - You can also explore my projects here: [Gitlab](https://gitlab.com/avbmfff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
