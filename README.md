@@ -1,5 +1,5 @@
 # 👋 Hi there, 
-## I'm Anna Borzdun, Junior+ SDET
+## I'm Anna Borzdun, Junior Backend Developer
 
 ## 🎓 Education
 - **Bachelor's Degree**: ITMO University, Information Systems and Technologies, 2025
@@ -12,13 +12,23 @@
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avbmfff&theme=solarized_dark)
 
 ## 📚 Additional Education and Courses
-- **Itentika**: QA Short Course, June-July 2023
+- **Itentika**: QA Course, June-July 2023
 - **Yandex SHAD**: Python for Developers, September-December 2023
 - **SheCodes**: Developing an app for taxi, November 2023
 
 ## 💼 Work Experience
 
-### 🎓 Universe Data / Junior QA Auto | JULE 2024 - PRESENT
+### 🎓 Fortis / Junior Backend Developer C# | NOVEMBER 2025 - PRESENT
+- 🌟 Developed backend features using C# / .NET, implementing controllers, services, and business logic
+- 🌟 Designed and implemented database schemas and migrations (working with relational databases)
+- 🌟 Built and maintained REST APIs for internal and external services
+- 🌟 Implemented Kafka consumers and message handlers for asynchronous event processing
+- 🌟 Integrated backend services with external APIs and internal microservices
+- 🌟 Wrote unit tests and integration tests to ensure reliability and maintainability of the code
+- 🌟 Participated in code reviews, debugging, and performance improvements
+- 🌟 Collaborated with QA and frontend teams to deliver and maintain production features
+
+### 🎓 Universe Data / Junior QA Auto Java | JULY 2024 - OCTOBER 2025
 - 🌟 Writing autotests on Java, TestNG + Playwright
 - 🌟 Fixing bugs on existing test cases, tracking down dropped tests on Jenkins in the Allure report
 - 🌟 Reviewing works and conducting code reviews
@@ -26,7 +36,7 @@
 - 🌟 Revision of autotests, taking into account updates in the product
 - 🌟 Conducting regression testing
 
-### 🎓 Sirius Kuzbass / Machine Learning Instructor | July 2025 – Present
+### 🎓 Sirius Kuzbass / Machine Learning Instructor Python | July 2025 – Present
 - 🌟 Designed an introductory machine learning curriculum for beginner students  
 - 🌟 Developed practical notebooks covering core topics: linear regression, gradient descent, KNN, data preprocessing, and neural networks  
 - 🌟 Created interactive projects: lemonade flavor prediction, digit recognition using neural networks  
@@ -34,7 +44,7 @@
 - 🌟 Conducted code reviews, evaluated student submissions, and provided personalized feedback  
 - 🌟 Explained key ML concepts such as overfitting, cross-validation, supervised vs. unsupervised learning
 
-### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULE 2024
+### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULY 2024
 - 🌟 Writing automated tests in Java using Selenide and JUnit 5
 - 🌟 Writing database queries for PostgreSQL using Hibernate
 - 🌟 Refactoring test cases
@@ -47,15 +57,23 @@
 - 🌟 Creating machine learning tasks
 - 🌟 Reviewing works and conducting code reviews
 
-### 🎓 ITMO University / Teaching assistant | SEMPTEMBER 2022 - JUNE 2023
-- 🌟 Reviweing student's code
+### 🎓 ITMO University / Teaching assistant C++ | SEPTEMBER 2022 - JUNE 2023
+- 🌟 Reviewing student's code
 - 🌟 Explaining Algorithms and Data Structures & Discrete Mathematics
 - 🌟 Checking homework
 
 ## 👩‍💻 About Me 
-I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
+I am a backend developer with experience in building and maintaining backend services, as well as a strong background in automated testing. I currently work with C# and .NET, developing controllers, services, database migrations, and integrations with external services. I also have experience working with event-driven systems using Apache Kafka.
 
-My path to automated testing was driven by a wide range of interesting tasks related to optimizing manual testing, as well as technological areas such as Java/Kotlin, Python, TypeScript, TestNG, Playwright, and Selenide. I am currently developing my knowledge of C# and C++. In addition, I am attracted to the field of DevOps, and now I am actively studying Docker, CI/CD, Jenkins and Kubernetes technologies.
+I have practical experience with multithreaded programming and concurrent systems, designing services that process asynchronous events and handle parallel workloads. In production environments, I also work with log monitoring and observability tools such as Kibana and Grafana to analyze system behavior, debug issues, and monitor service performance.
+
+My previous experience in Java automated testing helped me develop a strong focus on code quality, reliability, and maintainability. I worked with tools and frameworks such as TestNG, Playwright, Selenide, and Allure Report, which strengthened my understanding of system behavior, API testing, and CI pipelines.
+
+I have experience working with relational databases, including PostgreSQL and MySQL, designing schemas and writing queries. I also use several programming languages in my projects, including Java, C++, and Python (NumPy and data analysis libraries).
+
+In addition, I am actively developing my DevOps skills. I have completed DevOps courses where I gained hands-on experience with Docker, CI/CD pipelines, Jenkins, Kubernetes, Vagrant, and Ansible, and I apply these tools in development and testing workflows.
+
+I enjoy solving complex technical problems, improving system architecture, and building reliable backend services. I continuously expand my technical knowledge through practical development, teaching activities, and personal projects.
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
@@ -92,5 +110,6 @@ My path to automated testing was driven by a wide range of interesting tasks rel
 ## Connect with Me
 - TG: [Anna Borzdun](https://t.me/borzdunanna)
 - Mail: borzdunanna@gmail.com
+- You can also explore my projects here: [Gitlab](https://gitlab.com/avbmfff)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
