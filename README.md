@@ -29,12 +29,15 @@
 - 🌟 Collaborated with QA and frontend teams to deliver and maintain production features
 
 ### 🎓 Universe Data / Junior QA Auto Java | JULY 2024 - OCTOBER 2025
-- 🌟 Writing autotests on Java, TestNG + Playwright
-- 🌟 Fixing bugs on existing test cases, tracking down dropped tests on Jenkins in the Allure report
-- 🌟 Reviewing works and conducting code reviews
-- 🌟 Simplify manual test scenarios for automation
-- 🌟 Revision of autotests, taking into account updates in the product
-- 🌟 Conducting regression testing
+- 🌟 Developed automated tests using Java, TestNG, and Playwright
+- 🌟 Maintained and improved the existing automation framework and test suites
+- 🌟 Investigated failed and flaky tests by analyzing Jenkins pipelines and Allure reports
+- 🌟 Implemented a smart retry mechanism to improve stability and reproducibility of flaky tests
+- 🌟 Simplified and converted manual test scenarios into automated tests
+- 🌟 Updated and refactored test cases according to product changes
+- 🌟 Wrote technical documentation for the automation framework and testing workflows
+- 🌟 Conducted code reviews for colleagues’ test implementations and shared best practices
+- 🌟 Performed regression testing for new releases and features
 
 ### 🎓 Sirius Kuzbass / Machine Learning Instructor Python | July 2025 – Present
 - 🌟 Designed an introductory machine learning curriculum for beginner students  
